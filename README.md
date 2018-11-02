@@ -21,4 +21,4 @@ Please add your own database link in the 'views/tasks.js' file.
 
 ## Acknowledgment
 
-* **Brad Traversy** - [Github Link](https://github.com/bradtraversy)
+* [**Brad Traversy**](https://github.com/bradtraversy)
